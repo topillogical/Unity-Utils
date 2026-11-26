@@ -12,7 +12,7 @@
   "category": "editor extensions",
   "dependencies": {},
   "author": {
-    "name": "Git Amend",
+    "name": "Git Amend - forked",
     "url": "https://github.com/adammyhre"
   },
   "documentationUrl": "https://github.com/adammyhre/Unity-Utils/README.md"
